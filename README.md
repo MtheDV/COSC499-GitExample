@@ -1,7 +1,7 @@
-#COSC 499 Git Test
+COSC 499 Git Test
 ------------------
 
-## This is a test!
+### This is a test!
 A test!
 
-## Hi. 😀
+### Hi. 😀
