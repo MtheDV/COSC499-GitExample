@@ -8,3 +8,6 @@ Test this function by executing 'test_sort_integers.py'
 ### Output Sequence 🗣
 Use function "output_sequence" in 'output_sequence.py' to output a sequence of numbers based on a given amount
 Test this function by executing 'test_output_sequence.py'
+
+### Local Change!
+Nice!
